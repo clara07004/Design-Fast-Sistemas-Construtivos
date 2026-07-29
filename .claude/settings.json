@@ -1,0 +1,9 @@
+{
+  "hooks": {},
+  "permissions": {
+    "defaultMode": "auto",
+    "deny": [
+      "Bash(*descobrir-ig-user-id.py*)"
+    ]
+  }
+}
